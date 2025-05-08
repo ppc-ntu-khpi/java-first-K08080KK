@@ -1,7 +1,7 @@
 public class Shirt{
     public int shirtID = 1;
     public String description = "-Nike-";
-    public char colorCode = 'U';
+    public String colorCode = "White";
     public double price = 15.0;
     public int quantityInStock = 0;
 
